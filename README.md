@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dolpsoft
-- 👀 I’m interested in of course software engineering.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Python 3.
 
 
