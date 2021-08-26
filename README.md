@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dolpsoft
+𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 - 🌱 I’m currently learning Python 3.
 - 🌐 Im interested in web backend.
 - 📩 You can reach me on this email adress: rekld26@gmail.com  
