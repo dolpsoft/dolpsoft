@@ -5,7 +5,7 @@
 
 <h3 align='center'>Contact Me</h3>
 <p align='center'>
-  <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
 <h3 align='center'>My Areas Of Interest</h3>
