@@ -10,7 +10,7 @@
   <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align=My Areas Of Interest</h3>
+<h3 align='center'>My Areas Of Interest</h3>
 <p align='center'>
   
 <img src ="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/static/v1?label=&message=backend&style=for-the-badge&color=purple"/>
 </p>
 
-  
+<h3 align='center'>My Some Social Media Accounts</h3>
+<p align='center'>  
+
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dolpsoft) 
 
