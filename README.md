@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python 3.
 - 🌐 Im interested in web backend.
 - 📩 You can reach me on this email adress: rekld26@gmail.com  
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <h3 align='center'>Contact Me</h3>
 <p align='center'>
   <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
