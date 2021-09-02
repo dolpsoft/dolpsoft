@@ -10,7 +10,7 @@
   <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align='center'>My Areas Of Interest</h3>
+<h3 align=My Areas Of Interest</h3>
 <p align='center'>
   
 <img src ="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
