@@ -3,7 +3,7 @@
 - 🌐 Im interested in web backend.
 - 📩 You can reach me on this email adress: rekld26@gmail.com  
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link)
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dolpsoft&show_icons=true&theme=radical)
 <h3 align='center'>Contact Me</h3>
