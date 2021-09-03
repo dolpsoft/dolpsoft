@@ -19,12 +19,9 @@
 </p>
 
 <h3 align='center'>My Some Social Media Accounts</h3>
-<p display: flex;
-justify-content: center;
-align-items: center;
-align='center'>  
+<p align='center' </p>
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)
+<a> [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)</a>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dolpsoft) 
 [![GitHub followers](https://img.shields.io/github/followers/dolpsoft.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dolpsoft?tab=followers)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
