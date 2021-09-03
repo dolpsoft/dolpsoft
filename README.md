@@ -19,14 +19,13 @@
 </p>
 
 <h3 align='center'>My Some Social Media Accounts</h3>
-<div style="display: flex;
-justify-content: center;
+<div style="justify-content: center;
 align-items: center;">  
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dolpsoft) 
 [![GitHub followers](https://img.shields.io/github/followers/dolpsoft.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dolpsoft?tab=followers)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://youtu.be/dQw4w9WgXcQ) 
 </div>
 <!---
 dolpsoft/dolpsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
