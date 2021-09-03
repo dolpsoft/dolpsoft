@@ -1,5 +1,5 @@
 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-- 🌱 I’m currently learning Python 3.
+- 🌱 I’m currently learning Django framework. (İt's a Python's framework.)
 - 🌐 Im interested in web backend.
 - 📩 You can reach me on this email adress: rekld26@gmail.com  
 
