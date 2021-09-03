@@ -19,7 +19,10 @@
 </p>
 
 <h3 align='center'>My Some Social Media Accounts</h3>
-<p align='center'>  
+<p display: flex;
+justify-content: center;
+align-items: center;
+align='center'>  
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dolpsoft)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dolpsoft) 
