@@ -4,6 +4,8 @@
 - 📩 You can reach me on this email adress: rekld26@gmail.com  
 
 
+![](https://komarev.com/ghpvc/?username=dolpsoft&color=red)
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dolpsoft&show_icons=true&theme=radical)
 
 <h3 align='center'>Contact Me</h3>
