@@ -3,8 +3,8 @@
    >>> Im interested in web backend.<br>
    >>> You can reach me on this email adress: rekld26@gmail.com <br>
     ↱ <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
-
-
+    
+![](https://komarev.com/ghpvc/?username=dolpsoft&color=red)
 
 <br><br><h2 align='center'>𝙈𝙮 𝘼𝙧𝙚𝙖𝙨 𝙊𝙛 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩</h2>
 <p align='center'>
