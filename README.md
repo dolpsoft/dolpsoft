@@ -1,5 +1,5 @@
 <h2 align='center'>𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h2>
-   >>> I’m currently learning Django framework. (İt's a Python's framework.)<br>
+   >>> I’m currently learning Django framework. (It's a Python framework.)<br>
    >>> Im interested in web backend.<br>
    >>> You can reach me on this email adress: rekld26@gmail.com <br>
     ↱ <a href='mailto:rekld26@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
