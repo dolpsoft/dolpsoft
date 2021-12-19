@@ -1,5 +1,5 @@
 <h2 align='center'>𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h2>
-   <p style='border:2px solid cyan'> >>> I’m currently learning Django, HTML/CSS and PyQT. <sup>(PyQT and Django is a python framework.)</sup> </p> 
+   <p style='border:2px solid cyan'> >>> I’m currently learning Django, HTML/CSS and PyQT. <sup>(PyQT and Django are a python framework.)</sup> </p> 
    <p> >>> I'm interested in web backend and web frontend. </p>
    <p> >>> You can reach me on this email adress: rekld26@gmail.com </p>
     
