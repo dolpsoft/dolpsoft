@@ -42,12 +42,12 @@
 <h2 align='center'>𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
 
 <p align="center">
-<a href="rekld26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <sup> <b>rekld26@gmail.com</b></sup>
+<a href="mailto:rekld26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <sup> <b>rekld26@gmail.com</b></sup>
 </p>
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <sup> softwarebutthatswithmystyle #7862</sup>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <sup> <b>softwarebutthatswithmystyle #7862</b></sup>
 </p>
 
 
